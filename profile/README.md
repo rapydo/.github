@@ -4,7 +4,7 @@
 
 | Version | Release date | Status | Major changes |
 | --- | --- | --- | --- |
-| **2.4** | *Sep 2022* | *Under development* | Node 18; Angular 14; NgxFormly 6; Cypress 10; Redis 7; Spinners global conf; |
+| **2.4** | *Sep 2022* | *Under development* | Node 18; Angular 14; NgxFormly 6; Cypress 10; Redis 7; Spinners global conf; pyproject-only configuration (setuptools 64+); |
 | **2.3** | **21 May 2022** | **Supported** | Bootstrap 5; Dropped MongoDB; FTP Connector; Font Awesome 6; Ubuntu 22.04; Dropped Meinheld; |
 | **2.2** | **05 Mar 2022** | **Supported** | Project conf validation; Custom commands; Angular 13; PostgreSQL 14; Celery Retries; Yarn 3; |
 | 2.1 | 27 Nov 2021 | Discontinued | Endpoints users injection; Enhanced Swarm Mode; Passwords management; Fail2ban integration; Completed migration to compose v2 and python-on-whales; |
