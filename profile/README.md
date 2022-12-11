@@ -4,7 +4,7 @@
 
 | Version | Release date | Status | Major changes |
 | --- | --- | --- | --- |
-| **3.0** | *Mar 2023* | *Under development* | Merged build templates onto the controller; |
+| **3.0** | *Mar 2023* | *Under development* | Python3.11 backend; Merged build templates onto the controller; |
 | **2.4** | **08 Dec 2022** | **Supported** | Node 18; Angular 14; NgxFormly 6; Cypress 10; Redis 7; Dropped MariaDB; Spinners global conf; pyproject-only configuration (setuptools 64+); |
 | **2.3** | **21 May 2022** | **Supported** | Bootstrap 5; Dropped MongoDB; FTP Connector; Font Awesome 6; Ubuntu 22.04; Dropped Meinheld; |
 | **2.2** | **05 Mar 2022** | **Supported** | Project conf validation; Custom commands; Angular 13; PostgreSQL 14; Celery Retries; Yarn 3; |
