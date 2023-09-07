@@ -7,7 +7,7 @@
 | **3.0** | *TBD* | *Under development* | Python 3.11; Angular 15; PostgreSQL 15, Cypress 12; Merge build templates onto the controller; SQLAlchemy 2; Drop Flask-SQLAlchemy; Replace Moment with date-fns; |
 | **2.4** | **08 Dec 2022** | **Supported** | Node 18; Angular 14; NgxFormly 6; Cypress 10; Redis 7; Dropped MariaDB; Spinners global conf; pyproject-only configuration (setuptools 64+); |
 | **2.3** | **21 May 2022** | **Supported** | Bootstrap 5; Dropped MongoDB; FTP Connector; Font Awesome 6; Python3.10 + Ubuntu 22.04 backend; Dropped Meinheld; |
-| **2.2** | **05 Mar 2022** | **Supported** | Project conf validation; Custom commands; Angular 13; PostgreSQL 14; Celery Retries; Yarn 3; |
+| 2.2 | 05 Mar 2022 | Discontinued | Project conf validation; Custom commands; Angular 13; PostgreSQL 14; Celery Retries; Yarn 3; |
 | 2.1 | 27 Nov 2021 | Discontinued | Endpoints users injection; Enhanced Swarm Mode; Passwords management; Fail2ban integration; Completed migration to compose v2 and python-on-whales; |
 | 2.0 | 07 Aug 2021 | Discontinued | Docker 20.10+; Dropped py36; Swarm Mode PoC + python-on-whales; Flask 2; Angular 12; RxJS 7; Node 16; preload decorator; containers health checks; Flower 1.0; |
 | 1.2 | 22 May 2021 | Discontinued | SCSS; Support for NoAuth deployments; Enabled Docker BuildKit; |
