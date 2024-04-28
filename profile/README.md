@@ -5,7 +5,7 @@
 | Version | Release date | Status | Major changes |
 | --- | --- | --- | --- |
 | **3.1** | *TBD* | *Under development* | Python 3.12; Angular 17; |
-| **3.0** |  **28 Apr 2024** | **Supported** | Python 3.11; Angular 15; PostgreSQL 15; NodeJs 20; Cypress 12; Merge build templates onto the controller; SQLAlchemy 2; Drop Flask-SQLAlchemy; Replace Moment with date-fns; |
+| **3.0** |  **28 Apr 2024** | **Supported** | Python 3.11; Angular 15; PostgreSQL 15; NodeJs 20; Cypress 13; Merge build templates onto the controller; SQLAlchemy 2; Drop Flask-SQLAlchemy; Replace Moment with date-fns; |
 | **2.4** | **08 Dec 2022** | **Supported** | Node 18; Angular 14; NgxFormly 6; Cypress 10; Redis 7; Dropped MariaDB; Spinners global conf; pyproject-only configuration (setuptools 64+); |
 | **2.3** | **21 May 2022** | **Supported** | Bootstrap 5; Dropped MongoDB; FTP Connector; Font Awesome 6; Python3.10 + Ubuntu 22.04 backend; Dropped Meinheld; |
 | 2.2 | 05 Mar 2022 | Discontinued | Project conf validation; Custom commands; Angular 13; PostgreSQL 14; Celery Retries; Yarn 3; |
